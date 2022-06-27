@@ -1,4 +1,4 @@
 git remote add origin https://github.com/fofana-nenin/mon-debut.git
 git add --all
-git commit -m 'TECHNOLOGIE FRONT END'
+git commit -m 'TECHNOLOGIE FRONT END ET BACK END'
 git push -u origine master
